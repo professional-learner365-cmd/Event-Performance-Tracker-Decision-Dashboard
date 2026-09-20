@@ -9,6 +9,39 @@ I built this **Event Performance Tracker and Dashboard** to show how program dat
 
 The dashboard allows users to select a program and instantly review its performance across participation, satisfaction, staffing, and costs.
 
+
+## Instructions
+<img width="1516" height="602" alt="image" src="https://github.com/user-attachments/assets/7a87d473-9504-449a-b029-29dff7c9b46b" />
+
+<img width="837" height="542" alt="image" src="https://github.com/user-attachments/assets/0b113e8e-c457-4ac1-b0f1-ae28db1edd68" />
+
+## Program Details
+<img width="1250" height="515" alt="Screenshot 2026-09-19 233004" src="https://github.com/user-attachments/assets/e4fbd922-ef5b-4154-84a6-e060c4cd4036" />
+
+## Registration
+<img width="1336" height="665" alt="image" src="https://github.com/user-attachments/assets/3eb0199c-8339-430d-8bdc-eaa5274da760" />
+
+## Attendance
+<img width="1225" height="646" alt="image" src="https://github.com/user-attachments/assets/6d0e8e88-723d-4c9c-9960-f3923f74c38f" />
+
+## Participant Feedback
+<img width="1291" height="657" alt="image" src="https://github.com/user-attachments/assets/c501e5fb-afbc-45b7-b1c8-d69540a1e121" />
+
+## Volunteer Roles
+<img width="850" height="567" alt="image" src="https://github.com/user-attachments/assets/1f59e92d-4c92-46d3-a806-3f9b06c24627" />
+
+## Expenses & Resources
+<img width="1170" height="672" alt="image" src="https://github.com/user-attachments/assets/53534e42-6fc4-4835-8719-405c27409f68" />
+
+## Post Event Summary
+<img width="820" height="676" alt="image" src="https://github.com/user-attachments/assets/4142d95b-47d6-4340-9381-7d3a9e52a599" />
+
+<img width="820" height="652" alt="image" src="https://github.com/user-attachments/assets/e80ab9d5-2055-4a5d-875a-74fd3bb50962" />
+
+## One-Page Report Automatically Generated From Post Event Summary Tab
+<img width="782" height="832" alt="image" src="https://github.com/user-attachments/assets/22541e20-c0da-4cb5-b155-dc9f374ede80" />
+
+
 ## Key Questions
 
 This project helps answer questions such as:
