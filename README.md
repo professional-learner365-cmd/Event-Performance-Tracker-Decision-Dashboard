@@ -13,8 +13,11 @@ The dashboard allows users to select a program and instantly review its performa
 ## One-Page Report Automatically Generated From Post Event Summary Tab
 <img width="705" height="797" alt="image" src="https://github.com/user-attachments/assets/c57d6647-6f87-400a-8526-93c7e385814d" />
 
+
+
 ## Post Event Summary Tab
 <img width="992" height="712" alt="image" src="https://github.com/user-attachments/assets/53680a8b-3fef-42d0-931f-7e1213f73ef6" />
+
 
 <img width="982" height="717" alt="image" src="https://github.com/user-attachments/assets/6a8ec8da-5bb9-4882-bc4a-becc0a925bf1" />
 
