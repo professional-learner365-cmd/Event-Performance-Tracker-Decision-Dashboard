@@ -120,4 +120,4 @@ This project demonstrates skills in:
 
 ## Project Goal
 
-This project shows how structured program data can be transformed into clear insights that help organizations evaluate performance, improve programs, manage resources, and make more informed decisions.
+This project shows how structured program data can be transformed into clear insights that help organizations evaluate performance, improve programs, manage resources and make more informed decisions.
