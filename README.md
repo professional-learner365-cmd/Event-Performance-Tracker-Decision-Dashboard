@@ -13,32 +13,32 @@ The dashboard allows users to select a program and instantly review its performa
 ## One-Page Report Automatically Generated From Post Event Summary Tab
 <img width="705" height="797" alt="image" src="https://github.com/user-attachments/assets/c57d6647-6f87-400a-8526-93c7e385814d" />
 
-## Post Event Summary
+## Post Event Summary Tab
 <img width="992" height="712" alt="image" src="https://github.com/user-attachments/assets/53680a8b-3fef-42d0-931f-7e1213f73ef6" />
 
 <img width="982" height="717" alt="image" src="https://github.com/user-attachments/assets/6a8ec8da-5bb9-4882-bc4a-becc0a925bf1" />
 
-## Instructions
+## Instructions Tab
 <img width="1516" height="602" alt="image" src="https://github.com/user-attachments/assets/7a87d473-9504-449a-b029-29dff7c9b46b" />
 
 <img width="837" height="542" alt="image" src="https://github.com/user-attachments/assets/0b113e8e-c457-4ac1-b0f1-ae28db1edd68" />
 
-## Program Details
+## Program Details Tab
 <img width="1250" height="515" alt="Screenshot 2026-09-19 233004" src="https://github.com/user-attachments/assets/e4fbd922-ef5b-4154-84a6-e060c4cd4036" />
 
-## Registration
+## Registration Tab
 <img width="1336" height="665" alt="image" src="https://github.com/user-attachments/assets/3eb0199c-8339-430d-8bdc-eaa5274da760" />
 
-## Attendance
+## Attendance Tab
 <img width="1225" height="646" alt="image" src="https://github.com/user-attachments/assets/6d0e8e88-723d-4c9c-9960-f3923f74c38f" />
 
-## Participant Feedback
+## Participant Feedback Tab
 <img width="1291" height="657" alt="image" src="https://github.com/user-attachments/assets/c501e5fb-afbc-45b7-b1c8-d69540a1e121" />
 
-## Volunteer Roles
+## Volunteer Roles Tab
 <img width="850" height="567" alt="image" src="https://github.com/user-attachments/assets/1f59e92d-4c92-46d3-a806-3f9b06c24627" />
 
-## Expenses & Resources
+## Expenses & Resources Tab
 <img width="1170" height="672" alt="image" src="https://github.com/user-attachments/assets/53534e42-6fc4-4835-8719-405c27409f68" />
 
 ## Key Questions
