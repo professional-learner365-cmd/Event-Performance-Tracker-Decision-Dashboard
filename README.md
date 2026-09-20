@@ -1,5 +1,6 @@
 # Event-Performance-Tracker-Decision-Dashboard
-Built a dynamic program performance tracker and dashboard in Google Sheets/Excel to analyse registrations, attendance, satisfaction, participant sources, volunteer hours, and costs. Used spreadsheet functions, KPIs, dropdown filters and charts to turn program data into clear insights and support data-driven decisions.
+* Built a dynamic program performance tracker and dashboard in Google Sheets/Excel to analyse registrations, attendance, satisfaction, participant sources, volunteer hours, and costs. 
+* Used functions including XLOOKUP, COUNTIF, COUNTIFS, SUM, SUMIF, AVERAGEIF, IF, and IFERROR, along with KPIs, dropdown filters, and charts to turn program data into clear insights and support data-driven decisions.
 
 # Event Performance Tracker & Decision Dashboard
 
