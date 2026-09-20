@@ -11,12 +11,12 @@ I built this **Event Performance Tracker and Dashboard** to show how program dat
 The dashboard allows users to select a program and instantly review its performance across participation, satisfaction, staffing, and costs.
 
 ## One-Page Report Automatically Generated From Post Event Summary Tab
-<img width="782" height="832" alt="image" src="https://github.com/user-attachments/assets/22541e20-c0da-4cb5-b155-dc9f374ede80" />
+<img width="705" height="797" alt="image" src="https://github.com/user-attachments/assets/c57d6647-6f87-400a-8526-93c7e385814d" />
 
 ## Post Event Summary
-<img width="820" height="676" alt="image" src="https://github.com/user-attachments/assets/4142d95b-47d6-4340-9381-7d3a9e52a599" />
+<img width="992" height="712" alt="image" src="https://github.com/user-attachments/assets/53680a8b-3fef-42d0-931f-7e1213f73ef6" />
 
-<img width="820" height="652" alt="image" src="https://github.com/user-attachments/assets/e80ab9d5-2055-4a5d-875a-74fd3bb50962" />
+<img width="982" height="717" alt="image" src="https://github.com/user-attachments/assets/6a8ec8da-5bb9-4882-bc4a-becc0a925bf1" />
 
 ## Instructions
 <img width="1516" height="602" alt="image" src="https://github.com/user-attachments/assets/7a87d473-9504-449a-b029-29dff7c9b46b" />
