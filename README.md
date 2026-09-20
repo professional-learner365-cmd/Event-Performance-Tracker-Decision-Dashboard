@@ -10,6 +10,13 @@ I built this **Event Performance Tracker and Dashboard** to show how program dat
 
 The dashboard allows users to select a program and instantly review its performance across participation, satisfaction, staffing, and costs.
 
+## One-Page Report Automatically Generated From Post Event Summary Tab
+<img width="782" height="832" alt="image" src="https://github.com/user-attachments/assets/22541e20-c0da-4cb5-b155-dc9f374ede80" />
+
+## Post Event Summary
+<img width="820" height="676" alt="image" src="https://github.com/user-attachments/assets/4142d95b-47d6-4340-9381-7d3a9e52a599" />
+
+<img width="820" height="652" alt="image" src="https://github.com/user-attachments/assets/e80ab9d5-2055-4a5d-875a-74fd3bb50962" />
 
 ## Instructions
 <img width="1516" height="602" alt="image" src="https://github.com/user-attachments/assets/7a87d473-9504-449a-b029-29dff7c9b46b" />
@@ -33,15 +40,6 @@ The dashboard allows users to select a program and instantly review its performa
 
 ## Expenses & Resources
 <img width="1170" height="672" alt="image" src="https://github.com/user-attachments/assets/53534e42-6fc4-4835-8719-405c27409f68" />
-
-## Post Event Summary
-<img width="820" height="676" alt="image" src="https://github.com/user-attachments/assets/4142d95b-47d6-4340-9381-7d3a9e52a599" />
-
-<img width="820" height="652" alt="image" src="https://github.com/user-attachments/assets/e80ab9d5-2055-4a5d-875a-74fd3bb50962" />
-
-## One-Page Report Automatically Generated From Post Event Summary Tab
-<img width="782" height="832" alt="image" src="https://github.com/user-attachments/assets/22541e20-c0da-4cb5-b155-dc9f374ede80" />
-
 
 ## Key Questions
 
